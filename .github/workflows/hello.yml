@@ -6,7 +6,7 @@ on:
       - 'main'
 jobs:
   build:
-    runs-on: ubutun-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Printing Hello World
